@@ -1,0 +1,1 @@
+# SQL-HackerRank-Personal-Solution-Clear-Easy-and-Advance-SQL-Code
