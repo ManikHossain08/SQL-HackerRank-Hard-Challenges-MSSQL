@@ -1,4 +1,4 @@
-# SQL-HackerRank-Solution-Advance-Problem
+# SQL-HackerRank-Solution-of-Advance-Problem
 ### Procedure: Each chanllenges has problem statements in each folder and has sql file that have associated solution of that problem.
 
 # List of HackerRank Advance Challenges/Problems:
